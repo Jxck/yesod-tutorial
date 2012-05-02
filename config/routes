@@ -7,3 +7,4 @@
 / HomeR GET POST
 
 /echo/#Text EchoR GET
+/mirror MirrorR GET POST
