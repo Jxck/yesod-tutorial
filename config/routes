@@ -6,4 +6,4 @@
 
 / HomeR GET POST
 
-/echo/#String EchoR GET
+/echo/#Text EchoR GET
